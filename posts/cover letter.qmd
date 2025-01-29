@@ -2,6 +2,7 @@
 title: "Cover letter"
 format: html
 editor: visual
+categories: [Application]
 Author: Tyler Davis
 ---
 

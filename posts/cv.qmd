@@ -1,7 +1,8 @@
 ---
-title: CV
+title: "CV"
 format: html
 editor: visual
+categories: [Application]
 output: pdf_document
 ---
 
