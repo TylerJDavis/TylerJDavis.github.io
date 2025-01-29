@@ -1,0 +1,28 @@
+---
+title: "Cover letter"
+format: html
+editor: visual
+Author: Tyler Davis
+---
+
+# Tyler Davis
+
+January 29, 2025
+
+Prescient Edge
+
+RE: Mid Data Scienctist
+
+Dear Hiring Manager,
+
+Recently, I noticed a posting on indeed for the Mid Data Scientist position, and I am responding with hopes of being considered for this role. After learning about this position and the skills needed to complete this role exceptionally, I feel confident that my background and commitment to service will fit well with your company.
+
+I strive to maintain accuracy and consistency when completing tasks as I believe organization is the key to reaching goals efficiently. I believe that the communications skills I have gathered both working as a campus host and working with other researchers in the lab will allow me to create and foster relationships with the current members of staff. I am also always willing to learn and adapt to new scenarios. I am excited to have the opportunity to not only learn new skills but also to develop relationships within the Prescient Edge company and the people within that could help me reach my future goals.
+
+Please review my attached resume which provides a much deeper look into the things I have accomplished as a student and the jobs that I have held in the past. I believe the leadership and communication skills that I have gathered over the first 20 years of my life will allow me to become a valued member of your team. I also believe that the courses I have taken in my statistics and data analytics major will give me the opportunity to become an asset to your company. I look forward to meeting in person to discuss this position further and hopefully how I can make a positive impact for your company.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Tyler Davis

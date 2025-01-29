@@ -1,0 +1,70 @@
+---
+format: html
+editor: visual
+output: pdf_document
+---
+
+## Tyler Davis
+
+815-474-2999 \| tdavis24\@huskers.unl.edu \| 201 N. 18th St., Lincoln, NE 68508
+
+### Education
+
+**University of Nebraska - Lincoln, Lincoln, NE**\
+*Bachelor of Science, December 2025*
+
+-   Major: Statistics and Data Analytics, GPA: 4.0
+-   Minor: Mathematics
+
+**Morris Community High School, Morris, IL**\
+*High School Diploma, May 2021*
+
+### Work Experience
+
+**University of Nebraska - Lincoln, Lincoln, NE**\
+*Research Assistant, August 2024 – Present*
+
+-   Utilize R to explore statistical learning techniques.
+-   Develop variable selection processes using the K-Nearest Neighbors method.
+-   Conduct research to improve understanding and implementation of statistical learning concepts.
+
+**Nebraska Public Health and Human Services, Lincoln, NE**\
+*Health Surveillance Specialist Intern, May 2024 – August 2024*
+
+-   Analyzed data trends to support public health initiatives in Nebraska.
+-   Created interactive data visualization platforms to enhance data-driven decision-making.
+
+**TRIO, Lincoln, NE**\
+*Math Tutor and Class Coordinator, September 2023 - Present*
+
+-   Assist at-risk students with understanding and applying mathematical concepts.
+-   Develop learning strategies to enhance students' mathematical proficiency.
+-   Design and coordinate courses that prepare students for advanced math coursework.
+
+**UNL Office of Admissions, Lincoln, NE**\
+*Campus Host, January 2023 – May 2024*
+
+-   Assisted with events such as Red-Letter Days and Husker Saturdays.
+-   Guided prospective students on campus tours while presenting university information.
+
+### Involvement
+
+**Big Brother Big Sisters of America, Lincoln, NE**\
+*Mentor, February 2024 - Present*
+
+-   Organize activities to foster social skill development in children.
+-   Provide mentorship and support to a child in need.
+
+**Math Motivators Tutor, Lincoln, NE**\
+*Volunteer, August 2023 – Present*
+
+-   Assist high school students with math assignments and problem-solving.
+-   Enhance students’ understanding of mathematical concepts through tutoring.
+
+### Skills
+
+-   **Programming:** Proficient in Microsoft Office, Python, R, and SAS.
+-   **Communication:** Comfortable speaking in front of small and large groups.
+-   **Projects:** Developed and implemented statistical projects in courses such as probability theory, study design, and statistical computing.
+
+##### References are available on request
