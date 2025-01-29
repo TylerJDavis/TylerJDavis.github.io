@@ -2,8 +2,9 @@
 title: "Cover letter"
 format: html
 editor: visual
+Author: "Tyler Davis"
+Date: "January 29, 2025"
 categories: [Application]
-Author: Tyler Davis
 ---
 
 # Tyler Davis
