@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Presentation.html#graph-of-omaha-bridges",
+    "href": "Presentation.html#graph-of-omaha-bridges",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "graph of omaha bridges",
+    "text": "graph of omaha bridges\n\n\n\n\n\n\n\n\n\n\nFigure 1: Map of Omaha Bridges"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
@@ -7,11 +14,11 @@
     "text": "Welcome To My Blog\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nJan 29, 2025\n\n\nTyler Davis\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "cover letter.html",
+    "href": "cover letter.html",
+    "title": "Cover letter",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Tyler Davis\nJanuary 29, 2025\nPrescient Edge\nRE: Mid Data Scienctist\nDear Hiring Manager,\nRecently, I noticed a posting on indeed for the Mid Data Scientist position, and I am responding with hopes of being considered for this role. After learning about this position and the skills needed to complete this role exceptionally, I feel confident that my background and commitment to service will fit well with your company.\nI strive to maintain accuracy and consistency when completing tasks as I believe organization is the key to reaching goals efficiently. I believe that the communications skills I have gathered both working as a campus host and working with other researchers in the lab will allow me to create and foster relationships with the current members of staff. I am also always willing to learn and adapt to new scenarios. I am excited to have the opportunity to not only learn new skills but also to develop relationships within the Prescient Edge company and the people within that could help me reach my future goals.\nPlease review my attached resume which provides a much deeper look into the things I have accomplished as a student and the jobs that I have held in the past. I believe the leadership and communication skills that I have gathered over the first 22 years of my life will allow me to become a valued member of your team. I also believe that the courses I have taken in my statistics and data analytics major will give me the opportunity to become an asset to your company. I look forward to meeting in person to discuss this position further and hopefully how I can make a positive impact for your company.\nThank you for your time and consideration.\nSincerely,\nTyler Davis"
   },
   {
     "objectID": "about.html",
@@ -19,20 +26,6 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
-    "section": "",
-    "text": "quarto use template schochastics/classic-cv"
   },
   {
     "objectID": "cv.html",
@@ -49,31 +42,248 @@
     "text": "815-474-2999 | tdavis24@huskers.unl.edu | 201 N. 18th St., Lincoln, NE 68508\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nBachelor of Science, December 2025\n\nMajor: Statistics and Data Analytics, GPA: 4.0\nMinor: Mathematics\n\nMorris Community High School, Morris, IL\nHigh School Diploma, May 2021\n\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nResearch Assistant, August 2024 – Present\n\nUtilize R to explore statistical learning techniques.\nDevelop variable selection processes using the K-Nearest Neighbors method.\nConduct research to improve understanding and implementation of statistical learning concepts.\n\nNebraska Public Health and Human Services, Lincoln, NE\nHealth Surveillance Specialist Intern, May 2024 – August 2024\n\nAnalyzed data trends to support public health initiatives in Nebraska.\nCreated interactive data visualization platforms to enhance data-driven decision-making.\n\nTRIO, Lincoln, NE\nMath Tutor and Class Coordinator, September 2023 - Present\n\nAssist at-risk students with understanding and applying mathematical concepts.\nDevelop learning strategies to enhance students’ mathematical proficiency.\nDesign and coordinate courses that prepare students for advanced math coursework.\n\nUNL Office of Admissions, Lincoln, NE\nCampus Host, January 2023 – May 2024\n\nAssisted with events such as Red-Letter Days and Husker Saturdays.\nGuided prospective students on campus tours while presenting university information.\n\n\n\n\nBig Brother Big Sisters of America, Lincoln, NE\nMentor, February 2024 - Present\n\nOrganize activities to foster social skill development in children.\nProvide mentorship and support to a child in need.\n\nMath Motivators Tutor, Lincoln, NE\nVolunteer, August 2023 – Present\n\nAssist high school students with math assignments and problem-solving.\nEnhance students’ understanding of mathematical concepts through tutoring.\n\n\n\n\n\nProgramming: Proficient in Microsoft Office, Python, R, and SAS.\nCommunication: Comfortable speaking in front of small and large groups.\nProjects: Developed and implemented statistical projects in courses such as probability theory, study design, and statistical computing."
   },
   {
-    "objectID": "cover letter.html",
-    "href": "cover letter.html",
-    "title": "Cover letter",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Tyler Davis\nJanuary 29, 2025\nPrescient Edge\nRE: Mid Data Scienctist\nDear Hiring Manager,\nRecently, I noticed a posting on indeed for the Mid Data Scientist position, and I am responding with hopes of being considered for this role. After learning about this position and the skills needed to complete this role exceptionally, I feel confident that my background and commitment to service will fit well with your company.\nI strive to maintain accuracy and consistency when completing tasks as I believe organization is the key to reaching goals efficiently. I believe that the communications skills I have gathered both working as a campus host and working with other researchers in the lab will allow me to create and foster relationships with the current members of staff. I am also always willing to learn and adapt to new scenarios. I am excited to have the opportunity to not only learn new skills but also to develop relationships within the Prescient Edge company and the people within that could help me reach my future goals.\nPlease review my attached resume which provides a much deeper look into the things I have accomplished as a student and the jobs that I have held in the past. I believe the leadership and communication skills that I have gathered over the first 22 years of my life will allow me to become a valued member of your team. I also believe that the courses I have taken in my statistics and data analytics major will give me the opportunity to become an asset to your company. I look forward to meeting in person to discuss this position further and hopefully how I can make a positive impact for your company.\nThank you for your time and consideration.\nSincerely,\nTyler Davis"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "posts/cover letter.html",
-    "href": "posts/cover letter.html",
-    "title": "Cover letter",
-    "section": "",
-    "text": "Tyler Davis\nJanuary 29, 2025\nPrescient Edge\nRE: Mid Data Scienctist\nDear Hiring Manager,\nRecently, I noticed a posting on indeed for the Mid Data Scientist position, and I am responding with hopes of being considered for this role. After learning about this position and the skills needed to complete this role exceptionally, I feel confident that my background and commitment to service will fit well with your company.\nI strive to maintain accuracy and consistency when completing tasks as I believe organization is the key to reaching goals efficiently. I believe that the communications skills I have gathered both working as a campus host and working with other researchers in the lab will allow me to create and foster relationships with the current members of staff. I am also always willing to learn and adapt to new scenarios. I am excited to have the opportunity to not only learn new skills but also to develop relationships within the Prescient Edge company and the people within that could help me reach my future goals.\nPlease review my attached resume which provides a much deeper look into the things I have accomplished as a student and the jobs that I have held in the past. I believe the leadership and communication skills that I have gathered over the first 20 years of my life will allow me to become a valued member of your team. I also believe that the courses I have taken in my statistics and data analytics major will give me the opportunity to become an asset to your company. I look forward to meeting in person to discuss this position further and hopefully how I can make a positive impact for your company.\nThank you for your time and consideration.\nSincerely,\nTyler Davis"
+    "objectID": "Presentation.html#understanding-the-bridge-condition-variable",
+    "href": "Presentation.html#understanding-the-bridge-condition-variable",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Understanding the Bridge Condition Variable",
+    "text": "Understanding the Bridge Condition Variable\n\n\n\n\n\n\n\n\n\n\n\n\nvariable\nclasses\nfirst_values\n\n\n\n\nOBJECTID\ninteger\n160255, 160256, 160257, 160258, 160259, 160260\n\n\nSTATE_CODE_001\ninteger\n19, 19, 19, 19, 19, 19\n\n\nROUTE_PREFIX_005B\ninteger\n5, 5, 5, 5, 5, 5\n\n\nFACILITY_CARRIED_007\ncharacter\n5TH AVE, 2ND AVE, COLLEGE RD, ELLIOTT ST, W ORCHARD AVE, SYLVAN DR\n\n\nLAT_016\ndouble\n41.2569444444444, 41.2594444444444, 41.2688888888889, 41.2791666666667, 41.2802777777778, 41.2841666666667\n\n\nLONG_017\ndouble\n-95.8647222222222, -95.8647222222222, -95.8075, -95.8355555555555, -95.8355555555555, -95.8361111111111\n\n\nMAINTENANCE_021\ninteger\n4, 4, 4, 4, 4, 4\n\n\nYEAR_BUILT_027\ninteger\n1935, 1992, 1980, 1987, 1987, 1988\n\n\nTRAFFIC_LANES_ON_028A\ninteger\n2, 2, 2, 2, 2, 2\n\n\nADT_029\ninteger\n3013, 2223, 644, 1534, 684, 1002\n\n\nYEAR_ADT_030\ninteger\n2022, 2022, 2022, 2022, 2022, 2022\n\n\nDECK_COND_058\ncharacter\n4, 6, 6, 6, 7, 7\n\n\nSUPERSTRUCTURE_COND_059\ncharacter\n4, 7, 8, 6, 7, 7\n\n\nSUBSTRUCTURE_COND_060\ncharacter\n4, 8, 7, 6, 7, 7\n\n\nCHANNEL_COND_061\ncharacter\n8, 7, 6, 6, 8, 6\n\n\nCULVERT_COND_062\ncharacter\nN, N, N, N, N, N\n\n\nOPR_RATING_METH_063\ncharacter\n1, 1, 1, 1, 2, 0\n\n\nOPERATING_RATING_064\ndouble\n36.7, 47.7, 52.1, 99.9, 99.9, 44.5\n\n\nINV_RATING_METH_065\ncharacter\n1, 1, 1, 1, 2, 0\n\n\nINVENTORY_RATING_066\ndouble\n22, 28.6, 31.2, 57.1, 57.1, 32.7\n\n\nSTRUCTURAL_EVAL_067\ninteger\n4, 7, 7, 6, 7, 7\n\n\nFRACTURE_092A\ncharacter\nN, N, N, N, N, N\n\n\nTRAFFIC_DIRECTION_102\ninteger\n2, 2, 2, 2, 2, 2\n\n\nYEAR_RECONSTRUCTED_106\ninteger\n0, 0, 0, 0, 0, 0\n\n\nPERCENT_ADT_TRUCK_109\ninteger\n0, 0, 0, 0, 0, 0\n\n\nSCOUR_CRITICAL_113\ncharacter\n8, 8, 8, 8, 8, 8\n\n\nBRIDGE_CONDITION\ncharacter\nP, F, F, F, G, G\n\n\nLOWEST_RATING\ninteger\n4, 6, 6, 6, 7, 7\n\n\nDECK_AREA\ndouble\n164.82, 212.4, 708.01, 110.21, 110.21, 103.02\n\n\nSTATUS\ncharacter\nST, ST, ST, ST, ST, ST"
   },
   {
-    "objectID": "posts/cv.html",
-    "href": "posts/cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "815-474-2999 | tdavis24@huskers.unl.edu | 201 N. 18th St., Lincoln, NE 68508\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nBachelor of Science, December 2025\n\nMajor: Statistics and Data Analytics, GPA: 4.0\nMinor: Mathematics\n\nMorris Community High School, Morris, IL\nHigh School Diploma, May 2021\n\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nResearch Assistant, August 2024 – Present\n\nUtilize R to explore statistical learning techniques.\nDevelop variable selection processes using the K-Nearest Neighbors method.\nConduct research to improve understanding and implementation of statistical learning concepts.\n\nNebraska Public Health and Human Services, Lincoln, NE\nHealth Surveillance Specialist Intern, May 2024 – August 2024\n\nAnalyzed data trends to support public health initiatives in Nebraska.\nCreated interactive data visualization platforms to enhance data-driven decision-making.\n\nTRIO, Lincoln, NE\nMath Tutor and Class Coordinator, September 2023 - Present\n\nAssist at-risk students with understanding and applying mathematical concepts.\nDevelop learning strategies to enhance students’ mathematical proficiency.\nDesign and coordinate courses that prepare students for advanced math coursework.\n\nUNL Office of Admissions, Lincoln, NE\nCampus Host, January 2023 – May 2024\n\nAssisted with events such as Red-Letter Days and Husker Saturdays.\nGuided prospective students on campus tours while presenting university information.\n\n\n\n\nBig Brother Big Sisters of America, Lincoln, NE\nMentor, February 2024 - Present\n\nOrganize activities to foster social skill development in children.\nProvide mentorship and support to a child in need.\n\nMath Motivators Tutor, Lincoln, NE\nVolunteer, August 2023 – Present\n\nAssist high school students with math assignments and problem-solving.\nEnhance students’ understanding of mathematical concepts through tutoring.\n\n\n\n\n\nProgramming: Proficient in Microsoft Office, Python, R, and SAS.\nCommunication: Comfortable speaking in front of small and large groups.\nProjects: Developed and implemented statistical projects in courses such as probability theory, study design, and statistical computing."
+    "objectID": "Presentation.html#bridges-in-poor-condition-with-and-without-high-traffice",
+    "href": "Presentation.html#bridges-in-poor-condition-with-and-without-high-traffice",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Bridges in Poor Condition with and Without high traffice",
+    "text": "Bridges in Poor Condition with and Without high traffice"
   },
   {
-    "objectID": "posts/cv.html#tyler-davis",
-    "href": "posts/cv.html#tyler-davis",
-    "title": "CV",
-    "section": "",
-    "text": "815-474-2999 | tdavis24@huskers.unl.edu | 201 N. 18th St., Lincoln, NE 68508\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nBachelor of Science, December 2025\n\nMajor: Statistics and Data Analytics, GPA: 4.0\nMinor: Mathematics\n\nMorris Community High School, Morris, IL\nHigh School Diploma, May 2021\n\n\n\nUniversity of Nebraska - Lincoln, Lincoln, NE\nResearch Assistant, August 2024 – Present\n\nUtilize R to explore statistical learning techniques.\nDevelop variable selection processes using the K-Nearest Neighbors method.\nConduct research to improve understanding and implementation of statistical learning concepts.\n\nNebraska Public Health and Human Services, Lincoln, NE\nHealth Surveillance Specialist Intern, May 2024 – August 2024\n\nAnalyzed data trends to support public health initiatives in Nebraska.\nCreated interactive data visualization platforms to enhance data-driven decision-making.\n\nTRIO, Lincoln, NE\nMath Tutor and Class Coordinator, September 2023 - Present\n\nAssist at-risk students with understanding and applying mathematical concepts.\nDevelop learning strategies to enhance students’ mathematical proficiency.\nDesign and coordinate courses that prepare students for advanced math coursework.\n\nUNL Office of Admissions, Lincoln, NE\nCampus Host, January 2023 – May 2024\n\nAssisted with events such as Red-Letter Days and Husker Saturdays.\nGuided prospective students on campus tours while presenting university information.\n\n\n\n\nBig Brother Big Sisters of America, Lincoln, NE\nMentor, February 2024 - Present\n\nOrganize activities to foster social skill development in children.\nProvide mentorship and support to a child in need.\n\nMath Motivators Tutor, Lincoln, NE\nVolunteer, August 2023 – Present\n\nAssist high school students with math assignments and problem-solving.\nEnhance students’ understanding of mathematical concepts through tutoring.\n\n\n\n\n\nProgramming: Proficient in Microsoft Office, Python, R, and SAS.\nCommunication: Comfortable speaking in front of small and large groups.\nProjects: Developed and implemented statistical projects in courses such as probability theory, study design, and statistical computing."
+    "objectID": "Presentation.html#descriptive-statistics",
+    "href": "Presentation.html#descriptive-statistics",
+    "title": "My Presentation",
+    "section": "Descriptive Statistics",
+    "text": "Descriptive Statistics\nBridges with Poor Condition\nBridges with Poor condition and high traffic\nProportion of Bridges in poor condition"
+  },
+  {
+    "objectID": "Presentation.html#linear-model",
+    "href": "Presentation.html#linear-model",
+    "title": "My Presentation",
+    "section": "Linear Model",
+    "text": "Linear Model\nCollapse Risk variable\nImputation Methods\nModel makup and process\nModel Coefficients\nmodel accuracy"
+  },
+  {
+    "objectID": "Presentation.html#starting-analysis",
+    "href": "Presentation.html#starting-analysis",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Starting Analysis",
+    "text": "Starting Analysis"
+  },
+  {
+    "objectID": "Presentation.html#past-issues",
+    "href": "Presentation.html#past-issues",
+    "title": "My Presentation",
+    "section": "Past Issues",
+    "text": "Past Issues"
+  },
+  {
+    "objectID": "Presentation.html#descriptive-statistics-bridges-with-poor-condition",
+    "href": "Presentation.html#descriptive-statistics-bridges-with-poor-condition",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Bridges with Poor Condition",
+    "text": "Descriptive Statistics: Bridges with Poor Condition"
+  },
+  {
+    "objectID": "Presentation.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
+    "href": "Presentation.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Bridges with Poor condition and high traffic",
+    "text": "Descriptive Statistics: Bridges with Poor condition and high traffic"
+  },
+  {
+    "objectID": "Presentation.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
+    "href": "Presentation.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Proportion of Bridges in Poor Condition",
+    "text": "Descriptive Statistics: Proportion of Bridges in Poor Condition"
+  },
+  {
+    "objectID": "Presentation.html#linear-model-collapse-risk-variable",
+    "href": "Presentation.html#linear-model-collapse-risk-variable",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Collapse Risk Variable",
+    "text": "Linear Model: Collapse Risk Variable"
+  },
+  {
+    "objectID": "Presentation.html#linear-model-imputation-methods",
+    "href": "Presentation.html#linear-model-imputation-methods",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Imputation Methods",
+    "text": "Linear Model: Imputation Methods"
+  },
+  {
+    "objectID": "Presentation.html#linear-model-model-makup-and-process",
+    "href": "Presentation.html#linear-model-model-makup-and-process",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Makup and Process",
+    "text": "Linear Model: Model Makup and Process"
+  },
+  {
+    "objectID": "Presentation.html#linear-model-model-coefficients",
+    "href": "Presentation.html#linear-model-model-coefficients",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Coefficients",
+    "text": "Linear Model: Model Coefficients"
+  },
+  {
+    "objectID": "Presentation.html#linear-model-model-accuracy",
+    "href": "Presentation.html#linear-model-model-accuracy",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Accuracy",
+    "text": "Linear Model: Model Accuracy"
+  },
+  {
+    "objectID": "Presentation.html#problem-statement",
+    "href": "Presentation.html#problem-statement",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Problem Statement",
+    "text": "Problem Statement"
+  },
+  {
+    "objectID": "Presentation.html#why-it-matters",
+    "href": "Presentation.html#why-it-matters",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Why it Matters",
+    "text": "Why it Matters"
+  },
+  {
+    "objectID": "index.html#setting-the-stage",
+    "href": "index.html#setting-the-stage",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Setting the Stage",
+    "text": "Setting the Stage\n\nHave you ever been driving over a bridge and wondering how stable it is? This is a question that has created a lot of buzz recently especially with the state of the infrastructure in the United States.\nThe United States received a C rating on their infrastructure for 2025, the best the have received in years"
+  },
+  {
+    "objectID": "index.html#major-collapses",
+    "href": "index.html#major-collapses",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Major Collapses",
+    "text": "Major Collapses\n\nIn recent years the two major collapse in the United States have been:\n\nthe Francis Scott Key bridge in Baltimore MD which collapsed last year\nI - 35 W Mississippi River Bridge located in Minneapolis, MN collapsed in 2007"
+  },
+  {
+    "objectID": "index.html#why-it-matters",
+    "href": "index.html#why-it-matters",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Why it Matters",
+    "text": "Why it Matters\n\nIn the past year,National Transportation Safety Board has flagged 68 bridges across the United States that are at risk of collapse from vessel strikes alone\nWhen looking at the bridge condition in Nebraska, this leads to the discovery that 8.8% of bridges are structurally deficient.\nIt can also be found that 149 dams are considered high hazard potential."
+  },
+  {
+    "objectID": "index.html#problem-statement",
+    "href": "index.html#problem-statement",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n\nThe question is what is probability of a bridge collapse in Omaha, NE."
+  },
+  {
+    "objectID": "index.html#starting-analysis",
+    "href": "index.html#starting-analysis",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Starting Analysis",
+    "text": "Starting Analysis\n\nThe dataset that will be used is the NDAT National Bridge Inventory.\nThis data set contains 130 variables describing bridge location, structural condition, average traffic, etc.\nThis data set was filtered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA."
+  },
+  {
+    "objectID": "index.html#graph-of-omaha-bridges",
+    "href": "index.html#graph-of-omaha-bridges",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "graph of omaha bridges",
+    "text": "graph of omaha bridges\n\n\n\n\n\n\n\n\n\n\nFigure 1: Map of Omaha Bridges\n\n\n\n\n\n\nThis map displays the overall distribution of bridges in Omaha, NE."
+  },
+  {
+    "objectID": "index.html#understanding-the-bridge-condition-variable",
+    "href": "index.html#understanding-the-bridge-condition-variable",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Understanding the Bridge Condition Variable",
+    "text": "Understanding the Bridge Condition Variable\n\nthe Bridge Condition variable describes the overall condition of the bridge, which has rating of “P” for poor, “G” for good, and “F” for fair.\nBridge condition rating is determined by, ” the lowest rating of National Bridge Inventory (NBI) condition ratings for Item 58 (Deck), Item 59 (Superstructure), Item 60 (Substructure), or Item 62 (Culvert). If the lowest rating is greater than or equal to 7, the bridge is classified as Good; if it is less than or equal to 4, the classification is Poor. Bridges rated 5 or 6 are classified as Fair.”"
+  },
+  {
+    "objectID": "index.html#bridge-condition-analysis",
+    "href": "index.html#bridge-condition-analysis",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Bridge Condition Analysis",
+    "text": "Bridge Condition Analysis\n\n\n\n\n\n\n\n\n\n\nFigure 2: Bridge Condtion Ratings Across Omaha, NE\n\n\n\n\n\n\n-The graph shows the overall breakdown of how the bridge condition variable. - When first looking at this graph, it shows that a majority of the bridges in Omaha are in good or fair condition. - Next the brdiges with a poor rating will be analyzed."
+  },
+  {
+    "objectID": "index.html#bridges-in-poor-condition-with-and-without-high-traffic",
+    "href": "index.html#bridges-in-poor-condition-with-and-without-high-traffic",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Bridges in Poor Condition with and Without high traffic",
+    "text": "Bridges in Poor Condition with and Without high traffic\n\n\n\n\n\n\n\n\n\n\nFigure 3: Map of Omaha Bridges in ‘Poor’ Condtion\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Map of Omaha Bridges in ‘Poor’ Condtion and with High Traffic"
+  },
+  {
+    "objectID": "index.html#descriptive-statistics-bridges-with-poor-condition",
+    "href": "index.html#descriptive-statistics-bridges-with-poor-condition",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Bridges with Poor Condition",
+    "text": "Descriptive Statistics: Bridges with Poor Condition\n\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1954.714\n20.072\n42\n1957\n\n\nTRAFFIC_LANES_ON_028A\n2.500\n0.994\n42\n2\n\n\nADT_029\n12244.024\n19761.961\n42\n2027\n\n\nDECK_COND_058*\n3.485\n1.176\n33\n3\n\n\nSUPERSTRUCTURE_COND_059*\n3.545\n1.148\n33\n3\n\n\nSUBSTRUCTURE_COND_060*\n3.606\n0.827\n33\n4\n\n\nCHANNEL_COND_061*\n3.156\n1.347\n32\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n9\n1\n\n\nSTRUCTURAL_EVAL_067\n3.595\n1.515\n42\n4\n\n\nSCOUR_CRITICAL_113*\n4.031\n1.121\n32\n4\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n42\n1\n\n\n\n\n\n\n\n\nthe table shows that the average year of the bridges built in Omaha, NE was 1955\nIt can also be shown that structural condition ratings are low, as the average is shockingly below 4 (out of 10) and the average daily traffic (ADT_029) mean is 12240 cars per day"
+  },
+  {
+    "objectID": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
+    "href": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Bridges with Poor condition and high traffic",
+    "text": "Descriptive Statistics: Bridges with Poor condition and high traffic\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1969.167\n17.198\n12\n1965\n\n\nTRAFFIC_LANES_ON_028A\n3.917\n0.515\n12\n4\n\n\nADT_029\n38159.167\n20251.467\n12\n34353\n\n\nDECK_COND_058*\n1.000\n0.000\n9\n1\n\n\nSUPERSTRUCTURE_COND_059*\n2.111\n1.167\n9\n2\n\n\nSUBSTRUCTURE_COND_060*\n1.222\n0.441\n9\n1\n\n\nCHANNEL_COND_061*\n2.400\n0.894\n5\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n3\n1\n\n\nSTRUCTURAL_EVAL_067\n3.833\n1.899\n12\n4\n\n\nSCOUR_CRITICAL_113*\n1.800\n0.837\n5\n2\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n12\n1\n\n\n\n\n\n::: {.column width =“40%”}\nthe table shows bridges that are at further risk of collapse due to the fact that the mean average daily traffic is 38160\nIt can also be seen that the average year built is slightly newer at 1969 than bridges that are not high traffic.\nFinally, the average number of lanes is 3.92 which is much higher than the previous subset.\n\n\n::::"
+  },
+  {
+    "objectID": "index.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
+    "href": "index.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Descriptive Statistics: Proportion of Bridges in Poor Condition",
+    "text": "Descriptive Statistics: Proportion of Bridges in Poor Condition\n\n\n\n\n\n\nTable 1: Proportion of Bridges at Risk in all of Omaha, NE\n\n\n\n\n\n\nBridges at Risk\nHigh Traffic Bridges at Risk\n\n\n\n\n0.0496\n0.0142\n\n\n\n\n\n\n\n\n\n\nThe table shows that the percent chance that a bridge in Omaha, NE is in poor condition is 4.96 %.\nIt also shows, the percent chance that a bridge in poor condition has high traffic is 1.42%.\nThe Next step was to analyze the data with a linear model"
+  },
+  {
+    "objectID": "index.html#linear-model-collapse-risk-variable",
+    "href": "index.html#linear-model-collapse-risk-variable",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Collapse Risk Variable",
+    "text": "Linear Model: Collapse Risk Variable\n\nA binary collapse risk variable was created to have a response variable related to the collpase risk\nIt was done by creating the variable to equal 1 when the bridge condition is poor and if the structural evaluation of the bridge in less than 4, and 0 otherwise.\nBridge Condition and Structural Evaluation are both summary variables"
+  },
+  {
+    "objectID": "index.html#linear-model-imputation-methods",
+    "href": "index.html#linear-model-imputation-methods",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Imputation Methods",
+    "text": "Linear Model: Imputation Methods\n\nThe data set contained many “NA” values and to take are of this imputation methods were used\nimputation methods are when you use the information that you have in the data set to estimate the missing values\nThis new data set was then used to create our linear model"
+  },
+  {
+    "objectID": "index.html#linear-model-model-makeup-and-process",
+    "href": "index.html#linear-model-model-makeup-and-process",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Makeup and Process",
+    "text": "Linear Model: Model Makeup and Process\n\n\\[\n\\log\\left( \\frac{P(\\text{collapse\\_risk} = 1)}{1 - P(\\text{collapse\\_risk} = 1)} \\right)\n= \\beta_0 + \\beta_1 \\cdot \\text{DECK\\_COND\\_058} + \\beta_2 \\cdot \\text{OPERATING\\_RATING\\_064}\n+ \\beta_3 \\cdot \\text{YEAR\\_BUILT\\_027}\n\\]\n\n\nThis model is a generalized linear model as our response variable is non - linear"
+  },
+  {
+    "objectID": "index.html#linear-model-training-and-test-set",
+    "href": "index.html#linear-model-training-and-test-set",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Training and Test set",
+    "text": "Linear Model: Training and Test set\n\nThe data was split into a training and testing set (80% and 20% respectivly)\nThis was done so that the model’s accuracy could be tested as well as see its predictions"
+  },
+  {
+    "objectID": "index.html#linear-model-model-coefficients",
+    "href": "index.html#linear-model-model-coefficients",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Coefficients",
+    "text": "Linear Model: Model Coefficients\n\n\n\n\n\n\nTable 2: Regression Model Summary\n\n\n\n\n\n\n\n\n\nterm\nestimate\nstd.error\nstatistic\np.value\n\n\n\n\n(Intercept)\n60.25935\n29.82901\n2.020\n4.337e-02\n\n\nas.numeric(DECK_COND_058)\n-2.20545\n0.36807\n-5.992\n2.073e-09\n\n\nOPERATING_RATING_064\n-0.05494\n0.01928\n-2.850\n4.375e-03\n\n\nas.numeric(YEAR_BUILT_027)\n-0.02477\n0.01538\n-1.610\n1.073e-01\n\n\n\n\n\n\n\n\n\n\n::: {.column width-“50%”}\nThis shows that all variables are significant by having a p.value less than .05.\nThis means that all of the coefficients will be included in the model for prediction.\n\n\n::::"
+  },
+  {
+    "objectID": "index.html#linear-model-model-accuracy",
+    "href": "index.html#linear-model-model-accuracy",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Linear Model: Model Accuracy",
+    "text": "Linear Model: Model Accuracy\n\n\n\n\n\n\nTable 3: Accuracy of Regression Model\n\n\n\n\n\n\nAccuracy\n\n\n\n\n0.9762\n\n\n\n\n\n\n\n\n\n\nwhen used in prediction on the test data set, the model predicts or analyzed that there is 2.98 % of bridges that are at risk of collapse.\nThis is very similar to the value from the overall data which was 4.13 %.\nshows that the model has a 97.6% accuracy in predicting the defined collapse risk variable"
   }
 ]
