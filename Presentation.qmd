@@ -196,8 +196,8 @@ leaflet(high_traffic) %>%
 
 ## Descriptive Statistics: Bridges with Poor Condition
 
-:::::: columns
-:::: {.column width="60%"}
+::::: columns
+::: {.column width="50%"}
 ```{r}
 #| echo: false
 #| message: false
@@ -220,7 +220,6 @@ desc_h_t <- describe(high_traffic)
 
 ```
 
-::: {.small}
 ```{r}
 
 #| label: tbl-bridge-stats
@@ -230,26 +229,27 @@ desc_h_t <- describe(high_traffic)
 #| echo: false
 #| message: false
 
+
+library(kableExtra)
+
 desc_brid_cond %>%
   select(mean, sd, n, median) %>%
   mutate(across(c(mean, sd, median), ~ format(round(.x, 3), scientific = FALSE))) %>%
-  kable()
-
+  kable() %>%
+  kable_styling(font_size = 20) 
 ```
 :::
-::::
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 -   the table shows that the average year of the bridges built in Omaha, NE was `r signif(desc_brid_cond$mean[1],4)`
 -   It can also be shown that structural condition ratings are low, as the average is shockingly below 4 (out of 10) and the average daily traffic (ADT_029) mean is `r format(signif(desc_brid_cond$mean[3],4),scientific = FALSE)` cars per day
 :::
-::::::
+:::::
 
 ## Descriptive Statistics: Bridges with Poor condition and high traffic
 
-:::: columns
+::::: columns
 ::: {.column width="60%"}
-::: {.small}
 ```{r}
 
 #| label: tbl-bridge-stats1
@@ -260,20 +260,18 @@ desc_brid_cond %>%
 desc_h_t %>%
   select(mean, sd, n, median) %>%
   mutate(across(c(mean, sd, median),~ format(round(.x, 3), scientific = FALSE)))%>%
-  kable()
+  kable() %>%
+  kable_styling(font_size = 20) 
 
 ```
 :::
-:::
 
-::: {.column width ="40%"}
-
+::: {.column width="40%"}
 -   the table shows bridges that are at further risk of collapse due to the fact that the mean average daily traffic is `r format(signif(desc_h_t$mean[3],4),scientific = FALSE)`
 -   It can also be seen that the average year built is slightly newer at `r signif(desc_h_t$mean[1],4)` than bridges that are not high traffic.
 -   Finally, the average number of lanes is `r signif(desc_h_t$mean[2],3)` which is much higher than the previous subset.
-::::
-
-::::
+:::
+:::::
 
 ## Descriptive Statistics: Proportion of Bridges in Poor Condition
 
@@ -316,13 +314,11 @@ kable(percents, col.names = c("Bridges at Risk", "High Traffic Bridges at Risk")
 
 ## Linear Model: Model Makeup and Process
 
-::: {.small}
 $$
-\log\left( \frac{P(\text{collapse\_risk} = 1)}{1 - P(\text{collapse\_risk} = 1)} \right) 
-= \beta_0 + \beta_1 \cdot \text{DECK\_COND\_058} + \beta_2 \cdot \text{OPERATING\_RATING\_064} 
+\scriptsize \log\left( \frac{P(\text{collapse\_risk} = 1)}{1 - P(\text{collapse\_risk} = 1)} \right) 
+= \beta_0 + \beta_1 \cdot \text{DECK\_COND\_058} \\ \scriptsize + \beta_2 \cdot \text{OPERATING\_RATING\_064} 
 + \beta_3 \cdot \text{YEAR\_BUILT\_027}
 $$
-:::
 
 -   This model is a generalized linear model as our response variable is non - linear
 
@@ -333,9 +329,8 @@ $$
 
 ## Linear Model: Model Coefficients
 
-:::: columns
+::::: columns
 ::: {.column width="50%"}
-::: {.small}
 ```{r}
 #| label: tbl-mod
 #| tbl-cap: "Regression Model Summary"
@@ -374,15 +369,12 @@ tidy(model1) %>%
 
 ```
 :::
-:::
 
-::: {.column width-"50%"}
-
+::: {.column width="50%"}
 -   This shows that all variables are significant by having a p.value less than .05.
 -   This means that all of the coefficients will be included in the model for prediction.
-::::
-
-::::
+:::
+:::::
 
 ## Linear Model: Model Accuracy
 

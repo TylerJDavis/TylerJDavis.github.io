@@ -193,7 +193,7 @@
     "href": "index.html#starting-analysis",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Starting Analysis",
-    "text": "Starting Analysis\n\nThe dataset that will be used is the NDAT National Bridge Inventory.\nThis data set contains 130 variables describing bridge location, structural condition, average traffic, etc.\nThis data set was filtered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA."
+    "text": "Starting Analysis\n\nThe data set that will be used is the NDAT National Bridge Inventory.\nThis data set contains 130 variables describing bridge location, structural condition, average traffic, etc.\nThis data set was filtered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA."
   },
   {
     "objectID": "index.html#graph-of-omaha-bridges",
@@ -228,14 +228,14 @@
     "href": "index.html#descriptive-statistics-bridges-with-poor-condition",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Descriptive Statistics: Bridges with Poor Condition",
-    "text": "Descriptive Statistics: Bridges with Poor Condition\n\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1954.714\n20.072\n42\n1957\n\n\nTRAFFIC_LANES_ON_028A\n2.500\n0.994\n42\n2\n\n\nADT_029\n12244.024\n19761.961\n42\n2027\n\n\nDECK_COND_058*\n3.485\n1.176\n33\n3\n\n\nSUPERSTRUCTURE_COND_059*\n3.545\n1.148\n33\n3\n\n\nSUBSTRUCTURE_COND_060*\n3.606\n0.827\n33\n4\n\n\nCHANNEL_COND_061*\n3.156\n1.347\n32\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n9\n1\n\n\nSTRUCTURAL_EVAL_067\n3.595\n1.515\n42\n4\n\n\nSCOUR_CRITICAL_113*\n4.031\n1.121\n32\n4\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n42\n1\n\n\n\n\n\n\n\n\nthe table shows that the average year of the bridges built in Omaha, NE was 1955\nIt can also be shown that structural condition ratings are low, as the average is shockingly below 4 (out of 10) and the average daily traffic (ADT_029) mean is 12240 cars per day"
+    "text": "Descriptive Statistics: Bridges with Poor Condition\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1954.714\n20.072\n42\n1957\n\n\nTRAFFIC_LANES_ON_028A\n2.500\n0.994\n42\n2\n\n\nADT_029\n12244.024\n19761.961\n42\n2027\n\n\nDECK_COND_058*\n3.485\n1.176\n33\n3\n\n\nSUPERSTRUCTURE_COND_059*\n3.545\n1.148\n33\n3\n\n\nSUBSTRUCTURE_COND_060*\n3.606\n0.827\n33\n4\n\n\nCHANNEL_COND_061*\n3.156\n1.347\n32\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n9\n1\n\n\nSTRUCTURAL_EVAL_067\n3.595\n1.515\n42\n4\n\n\nSCOUR_CRITICAL_113*\n4.031\n1.121\n32\n4\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n42\n1\n\n\n\n\n\n\n\n\n\nthe table shows that the average year of the bridges built in Omaha, NE was 1955\nIt can also be shown that structural condition ratings are low, as the average is shockingly below 4 (out of 10) and the average daily traffic (ADT_029) mean is 12240 cars per day"
   },
   {
     "objectID": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
     "href": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Descriptive Statistics: Bridges with Poor condition and high traffic",
-    "text": "Descriptive Statistics: Bridges with Poor condition and high traffic\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1969.167\n17.198\n12\n1965\n\n\nTRAFFIC_LANES_ON_028A\n3.917\n0.515\n12\n4\n\n\nADT_029\n38159.167\n20251.467\n12\n34353\n\n\nDECK_COND_058*\n1.000\n0.000\n9\n1\n\n\nSUPERSTRUCTURE_COND_059*\n2.111\n1.167\n9\n2\n\n\nSUBSTRUCTURE_COND_060*\n1.222\n0.441\n9\n1\n\n\nCHANNEL_COND_061*\n2.400\n0.894\n5\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n3\n1\n\n\nSTRUCTURAL_EVAL_067\n3.833\n1.899\n12\n4\n\n\nSCOUR_CRITICAL_113*\n1.800\n0.837\n5\n2\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n12\n1\n\n\n\n\n\n::: {.column width =“40%”}\nthe table shows bridges that are at further risk of collapse due to the fact that the mean average daily traffic is 38160\nIt can also be seen that the average year built is slightly newer at 1969 than bridges that are not high traffic.\nFinally, the average number of lanes is 3.92 which is much higher than the previous subset.\n\n\n::::"
+    "text": "Descriptive Statistics: Bridges with Poor condition and high traffic\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1969.167\n17.198\n12\n1965\n\n\nTRAFFIC_LANES_ON_028A\n3.917\n0.515\n12\n4\n\n\nADT_029\n38159.167\n20251.467\n12\n34353\n\n\nDECK_COND_058*\n1.000\n0.000\n9\n1\n\n\nSUPERSTRUCTURE_COND_059*\n2.111\n1.167\n9\n2\n\n\nSUBSTRUCTURE_COND_060*\n1.222\n0.441\n9\n1\n\n\nCHANNEL_COND_061*\n2.400\n0.894\n5\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n3\n1\n\n\nSTRUCTURAL_EVAL_067\n3.833\n1.899\n12\n4\n\n\nSCOUR_CRITICAL_113*\n1.800\n0.837\n5\n2\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n12\n1\n\n\n\n\n\n\n\n\n\nthe table shows bridges that are at further risk of collapse due to the fact that the mean average daily traffic is 38160\nIt can also be seen that the average year built is slightly newer at 1969 than bridges that are not high traffic.\nFinally, the average number of lanes is 3.92 which is much higher than the previous subset."
   },
   {
     "objectID": "index.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
@@ -263,7 +263,7 @@
     "href": "index.html#linear-model-model-makeup-and-process",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Makeup and Process",
-    "text": "Linear Model: Model Makeup and Process\n\n\\[\n\\log\\left( \\frac{P(\\text{collapse\\_risk} = 1)}{1 - P(\\text{collapse\\_risk} = 1)} \\right)\n= \\beta_0 + \\beta_1 \\cdot \\text{DECK\\_COND\\_058} + \\beta_2 \\cdot \\text{OPERATING\\_RATING\\_064}\n+ \\beta_3 \\cdot \\text{YEAR\\_BUILT\\_027}\n\\]\n\n\nThis model is a generalized linear model as our response variable is non - linear"
+    "text": "Linear Model: Model Makeup and Process\n\\[\n\\scriptsize \\log\\left( \\frac{P(\\text{collapse\\_risk} = 1)}{1 - P(\\text{collapse\\_risk} = 1)} \\right)\n= \\beta_0 + \\beta_1 \\cdot \\text{DECK\\_COND\\_058} \\\\ \\small + \\beta_2 \\cdot \\text{OPERATING\\_RATING\\_064}\n+ \\beta_3 \\cdot \\text{YEAR\\_BUILT\\_027}\n\\]\n\nThis model is a generalized linear model as our response variable is non - linear"
   },
   {
     "objectID": "index.html#linear-model-training-and-test-set",
@@ -277,13 +277,13 @@
     "href": "index.html#linear-model-model-coefficients",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Coefficients",
-    "text": "Linear Model: Model Coefficients\n\n\n\n\n\n\nTable 2: Regression Model Summary\n\n\n\n\n\n\n\n\n\nterm\nestimate\nstd.error\nstatistic\np.value\n\n\n\n\n(Intercept)\n60.25935\n29.82901\n2.020\n4.337e-02\n\n\nas.numeric(DECK_COND_058)\n-2.20545\n0.36807\n-5.992\n2.073e-09\n\n\nOPERATING_RATING_064\n-0.05494\n0.01928\n-2.850\n4.375e-03\n\n\nas.numeric(YEAR_BUILT_027)\n-0.02477\n0.01538\n-1.610\n1.073e-01\n\n\n\n\n\n\n\n\n\n\n::: {.column width-“50%”}\nThis shows that all variables are significant by having a p.value less than .05.\nThis means that all of the coefficients will be included in the model for prediction.\n\n\n::::"
+    "text": "Linear Model: Model Coefficients\n\n\n\n\n\n\nTable 2: Regression Model Summary\n\n\n\n\n\n\n\n\n\nterm\nestimate\nstd.error\nstatistic\np.value\n\n\n\n\n(Intercept)\n87.43192\n27.41069\n3.190\n1.424e-03\n\n\nas.numeric(DECK_COND_058)\n-1.66362\n0.28992\n-5.738\n9.565e-09\n\n\nOPERATING_RATING_064\n-0.04702\n0.01828\n-2.572\n1.011e-02\n\n\nas.numeric(YEAR_BUILT_027)\n-0.04013\n0.01417\n-2.832\n4.632e-03\n\n\n\n\n\n\n\n\n\n\n\n\nThis shows that all variables are significant by having a p.value less than .05.\nThis means that all of the coefficients will be included in the model for prediction."
   },
   {
     "objectID": "index.html#linear-model-model-accuracy",
     "href": "index.html#linear-model-model-accuracy",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Accuracy",
-    "text": "Linear Model: Model Accuracy\n\n\n\n\n\n\nTable 3: Accuracy of Regression Model\n\n\n\n\n\n\nAccuracy\n\n\n\n\n0.9762\n\n\n\n\n\n\n\n\n\n\nwhen used in prediction on the test data set, the model predicts or analyzed that there is 2.98 % of bridges that are at risk of collapse.\nThis is very similar to the value from the overall data which was 4.13 %.\nshows that the model has a 97.6% accuracy in predicting the defined collapse risk variable"
+    "text": "Linear Model: Model Accuracy\n\n\n\n\n\n\nTable 3: Accuracy of Regression Model\n\n\n\n\n\n\nAccuracy\n\n\n\n\n0.9881\n\n\n\n\n\n\n\n\n\n\nwhen used in prediction on the test data set, the model predicts or analyzed that there is 3.57 % of bridges that are at risk of collapse.\nThis is very similar to the value from the overall data which was 4.13 %.\nshows that the model has a 98.8% accuracy in predicting the defined collapse risk variable"
   }
 ]
