@@ -35,7 +35,7 @@ output-file: index.html
 
 ## Starting Analysis
 
--   The dataset that will be used is the NDAT National Bridge Inventory.
+-   The data set that will be used is the NDAT National Bridge Inventory.
 -   This data set contains 130 variables describing bridge location, structural condition, average traffic, etc.
 -   This data set was filtered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA.
 
@@ -220,7 +220,7 @@ desc_h_t <- describe(high_traffic)
 
 ```
 
-::: small
+::: {.small}
 ```{r}
 
 #| label: tbl-bridge-stats
@@ -249,6 +249,7 @@ desc_brid_cond %>%
 
 :::: columns
 ::: {.column width="60%"}
+::: {.small}
 ```{r}
 
 #| label: tbl-bridge-stats1
@@ -262,6 +263,7 @@ desc_h_t %>%
   kable()
 
 ```
+:::
 :::
 
 ::: {.column width ="40%"}
@@ -314,7 +316,7 @@ kable(percents, col.names = c("Bridges at Risk", "High Traffic Bridges at Risk")
 
 ## Linear Model: Model Makeup and Process
 
-::: small
+::: {.small}
 $$
 \log\left( \frac{P(\text{collapse\_risk} = 1)}{1 - P(\text{collapse\_risk} = 1)} \right) 
 = \beta_0 + \beta_1 \cdot \text{DECK\_COND\_058} + \beta_2 \cdot \text{OPERATING\_RATING\_064} 
@@ -333,6 +335,7 @@ $$
 
 :::: columns
 ::: {.column width="50%"}
+::: {.small}
 ```{r}
 #| label: tbl-mod
 #| tbl-cap: "Regression Model Summary"
@@ -370,6 +373,7 @@ tidy(model1) %>%
   gt()
 
 ```
+:::
 :::
 
 ::: {.column width-"50%"}
