@@ -9,6 +9,7 @@ website:
       - about.qmd
       - cv.qmd
       - cover letter.qmd
+      - Presentation.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
