@@ -165,125 +165,153 @@
     "href": "index.html#setting-the-stage",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Setting the Stage",
-    "text": "Setting the Stage\n\nHave you ever been driving over a bridge and wondering how stable it is? This is a question that has created a lot of buzz recently especially with the state of the infrastructure in the United States.\nThe United States received a C rating on their infrastructure for 2025, the best the have received in years"
+    "text": "Setting the Stage\n\nHave you ever been driving over a bridge and wondering how stable it is?\nThe United States received a C rating on their infrastructure for 2025, “Nebraska Infrastructure Report Card | ASCE” (2025)\n\nThe best the have received in years"
   },
   {
     "objectID": "index.html#major-collapses",
     "href": "index.html#major-collapses",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Major Collapses",
-    "text": "Major Collapses\n\nIn recent years the two major collapse in the United States have been:\n\nthe Francis Scott Key bridge in Baltimore MD which collapsed last year\nI - 35 W Mississippi River Bridge located in Minneapolis, MN collapsed in 2007"
+    "text": "Major Collapses\n\nIn recent years the two major collapse in the United States have been:\n\nthe Francis Scott Key bridge in Baltimore MD which collapsed last year\nI - 35 W Mississippi River Bridge located in Minneapolis, MN collapsed in 2007, DeLetter (2024)"
   },
   {
     "objectID": "index.html#why-it-matters",
     "href": "index.html#why-it-matters",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Why it Matters",
-    "text": "Why it Matters\n\nIn the past year,National Transportation Safety Board has flagged 68 bridges across the United States that are at risk of collapse from vessel strikes alone\nWhen looking at the bridge condition in Nebraska, this leads to the discovery that 8.8% of bridges are structurally deficient.\nIt can also be found that 149 dams are considered high hazard potential."
+    "text": "Why it Matters\n\nThe National Transportation Safety Board flagged 68 bridges that are at risk of collapse from vessel strikes, “NTSB Recommends 68 Bridges in US Be Evaluated for Risk of Collapse from Vessel Strike” (2025)\nThe bridge condition in Nebraska is also in question as 8.8% of bridges are deficient\n149 dams are considered high hazard potential."
   },
   {
     "objectID": "index.html#problem-statement",
     "href": "index.html#problem-statement",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Problem Statement",
-    "text": "Problem Statement\n\nThe question is what is probability of a bridge collapse in Omaha, NE."
+    "text": "Problem Statement\n\nWhat is probability of a bridge collapse in Omaha, NE?"
   },
   {
     "objectID": "index.html#starting-analysis",
     "href": "index.html#starting-analysis",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Starting Analysis",
-    "text": "Starting Analysis\n\nThe data set that will be used is the NDAT National Bridge Inventory.\nThis data set contains 130 variables describing bridge location, structural condition, average traffic, etc.\nThis data set was filtered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA."
+    "text": "Starting Analysis\n\nNDAT National Bridge Inventory data set, “National Bridge Inventory (NBI)” (2024)\nIt contains 130 variables describing:\n\nbridge location, structural condition, and average traffic\n\nFiltered to contain only the Omaha area, which includes towns like Elkhorn, NE and Council Bluffs, IA."
   },
   {
     "objectID": "index.html#graph-of-omaha-bridges",
     "href": "index.html#graph-of-omaha-bridges",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
-    "section": "graph of omaha bridges",
-    "text": "graph of omaha bridges\n\n\n\n\n\n\n\n\n\n\nFigure 1: Map of Omaha Bridges\n\n\n\n\n\n\nThis map displays the overall distribution of bridges in Omaha, NE."
+    "section": "Graph of Omaha Bridges",
+    "text": "Graph of Omaha Bridges\n\n\n\n\n\n\n\n\n\n\nFigure 1: Map of Omaha Bridges\n\n\n\n\n\n\nThis map displays the overall distribution of bridges in Omaha, NE"
   },
   {
     "objectID": "index.html#understanding-the-bridge-condition-variable",
     "href": "index.html#understanding-the-bridge-condition-variable",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Understanding the Bridge Condition Variable",
-    "text": "Understanding the Bridge Condition Variable\n\nthe Bridge Condition variable describes the overall condition of the bridge, which has rating of “P” for poor, “G” for good, and “F” for fair.\nBridge condition rating is determined by, ” the lowest rating of National Bridge Inventory (NBI) condition ratings for Item 58 (Deck), Item 59 (Superstructure), Item 60 (Substructure), or Item 62 (Culvert). If the lowest rating is greater than or equal to 7, the bridge is classified as Good; if it is less than or equal to 4, the classification is Poor. Bridges rated 5 or 6 are classified as Fair.”"
+    "text": "Understanding the Bridge Condition Variable\n\nThe Bridge Condition variable\n\nhas rating of “P” for poor, “G” for good, and “F” for fair\n\nBridge condition rating is determined by:\n\nThe lowest rating of condition ratings for:\n\nDeck, Superstructure, Substructure, and Culvert\n\n\nIf the lowest rating is greater than or equal to 7 = “G”, if it is 5 or 6 the rating is “F”, and if it is less than or equal to 4, the rating is “P”"
   },
   {
     "objectID": "index.html#bridge-condition-analysis",
     "href": "index.html#bridge-condition-analysis",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Bridge Condition Analysis",
-    "text": "Bridge Condition Analysis\n\n\n\n\n\n\n\n\n\n\nFigure 2: Bridge Condtion Ratings Across Omaha, NE\n\n\n\n\n\n\n-The graph shows the overall breakdown of how the bridge condition variable. - When first looking at this graph, it shows that a majority of the bridges in Omaha are in good or fair condition. - Next the brdiges with a poor rating will be analyzed."
+    "text": "Bridge Condition Analysis\n\n\n\n\n\n\n\n\n\n\nFigure 2: Bridge Condtion Ratings Across Omaha, NE\n\n\n\n\n\n\n\nThe graph shows the overall breakdown of how the bridge condition variable.\nThis shows that a majority of the bridges in Omaha are in good or fair condition.\nNext the bridges with a poor rating will be analyzed."
   },
   {
     "objectID": "index.html#bridges-in-poor-condition-with-and-without-high-traffic",
     "href": "index.html#bridges-in-poor-condition-with-and-without-high-traffic",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
-    "section": "Bridges in Poor Condition with and Without high traffic",
-    "text": "Bridges in Poor Condition with and Without high traffic\n\n\n\n\n\n\n\n\n\n\nFigure 3: Map of Omaha Bridges in ‘Poor’ Condtion\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Map of Omaha Bridges in ‘Poor’ Condtion and with High Traffic"
+    "section": "Bridges in Poor Condition with and without High Traffic",
+    "text": "Bridges in Poor Condition with and without High Traffic\n\n\n\n\n\n\n\n\n\n\nFigure 3: Map of Omaha Bridges in ‘Poor’ Condtion\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Map of Omaha Bridges in ‘Poor’ Condtion and with High Traffic"
   },
   {
     "objectID": "index.html#descriptive-statistics-bridges-with-poor-condition",
     "href": "index.html#descriptive-statistics-bridges-with-poor-condition",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Descriptive Statistics: Bridges with Poor Condition",
-    "text": "Descriptive Statistics: Bridges with Poor Condition\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1954.714\n20.072\n42\n1957\n\n\nTRAFFIC_LANES_ON_028A\n2.500\n0.994\n42\n2\n\n\nADT_029\n12244.024\n19761.961\n42\n2027\n\n\nDECK_COND_058*\n3.485\n1.176\n33\n3\n\n\nSUPERSTRUCTURE_COND_059*\n3.545\n1.148\n33\n3\n\n\nSUBSTRUCTURE_COND_060*\n3.606\n0.827\n33\n4\n\n\nCHANNEL_COND_061*\n3.156\n1.347\n32\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n9\n1\n\n\nSTRUCTURAL_EVAL_067\n3.595\n1.515\n42\n4\n\n\nSCOUR_CRITICAL_113*\n4.031\n1.121\n32\n4\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n42\n1\n\n\n\n\n\n\n\n\n\nthe table shows that the average year of the bridges built in Omaha, NE was 1955\nIt can also be shown that structural condition ratings are low, as the average is shockingly below 4 (out of 10) and the average daily traffic (ADT_029) mean is 12240 cars per day"
+    "text": "Descriptive Statistics: Bridges with Poor Condition\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1954.714\n20.072\n42\n1957\n\n\nTRAFFIC_LANES_ON_028A\n2.500\n0.994\n42\n2\n\n\nADT_029\n12244.024\n19761.961\n42\n2027\n\n\nDECK_COND_058*\n3.485\n1.176\n33\n3\n\n\nSUPERSTRUCTURE_COND_059*\n3.545\n1.148\n33\n3\n\n\nSUBSTRUCTURE_COND_060*\n3.606\n0.827\n33\n4\n\n\nCHANNEL_COND_061*\n3.156\n1.347\n32\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n9\n1\n\n\nSTRUCTURAL_EVAL_067\n3.595\n1.515\n42\n4\n\n\nSCOUR_CRITICAL_113*\n4.031\n1.121\n32\n4\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n42\n1\n\n\n\n\n\n\n\n\n\nThe average year of the bridges built in Omaha, NE was 1955\nStructural condition ratings are low, as the average is shockingly below 4 (out of 10)\nThe average daily traffic (ADT_029) mean is 12240 cars per day"
   },
   {
     "objectID": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
     "href": "index.html#descriptive-statistics-bridges-with-poor-condition-and-high-traffic",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
-    "section": "Descriptive Statistics: Bridges with Poor condition and high traffic",
-    "text": "Descriptive Statistics: Bridges with Poor condition and high traffic\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1969.167\n17.198\n12\n1965\n\n\nTRAFFIC_LANES_ON_028A\n3.917\n0.515\n12\n4\n\n\nADT_029\n38159.167\n20251.467\n12\n34353\n\n\nDECK_COND_058*\n1.000\n0.000\n9\n1\n\n\nSUPERSTRUCTURE_COND_059*\n2.111\n1.167\n9\n2\n\n\nSUBSTRUCTURE_COND_060*\n1.222\n0.441\n9\n1\n\n\nCHANNEL_COND_061*\n2.400\n0.894\n5\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n3\n1\n\n\nSTRUCTURAL_EVAL_067\n3.833\n1.899\n12\n4\n\n\nSCOUR_CRITICAL_113*\n1.800\n0.837\n5\n2\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n12\n1\n\n\n\n\n\n\n\n\n\nthe table shows bridges that are at further risk of collapse due to the fact that the mean average daily traffic is 38160\nIt can also be seen that the average year built is slightly newer at 1969 than bridges that are not high traffic.\nFinally, the average number of lanes is 3.92 which is much higher than the previous subset."
+    "section": "Descriptive Statistics: Bridges with Poor Condition and High Traffic",
+    "text": "Descriptive Statistics: Bridges with Poor Condition and High Traffic\n\n\n\n\n\n\n\n\nmean\nsd\nn\nmedian\n\n\n\n\nYEAR_BUILT_027\n1969.167\n17.198\n12\n1965\n\n\nTRAFFIC_LANES_ON_028A\n3.917\n0.515\n12\n4\n\n\nADT_029\n38159.167\n20251.467\n12\n34353\n\n\nDECK_COND_058*\n1.000\n0.000\n9\n1\n\n\nSUPERSTRUCTURE_COND_059*\n2.111\n1.167\n9\n2\n\n\nSUBSTRUCTURE_COND_060*\n1.222\n0.441\n9\n1\n\n\nCHANNEL_COND_061*\n2.400\n0.894\n5\n3\n\n\nCULVERT_COND_062*\n1.000\n0.000\n3\n1\n\n\nSTRUCTURAL_EVAL_067\n3.833\n1.899\n12\n4\n\n\nSCOUR_CRITICAL_113*\n1.800\n0.837\n5\n2\n\n\nBRIDGE_CONDITION*\n1.000\n0.000\n12\n1\n\n\n\n\n\n\n\n\n\nThe mean average daily traffic is 38160\nThe average year built is slightly newer at 1969 than bridges that are not high traffic.\nThe average number of lanes is 3.92 which is much higher than the previous subset."
   },
   {
     "objectID": "index.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
     "href": "index.html#descriptive-statistics-proportion-of-bridges-in-poor-condition",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Descriptive Statistics: Proportion of Bridges in Poor Condition",
-    "text": "Descriptive Statistics: Proportion of Bridges in Poor Condition\n\n\n\n\n\n\nTable 1: Proportion of Bridges at Risk in all of Omaha, NE\n\n\n\n\n\n\nBridges at Risk\nHigh Traffic Bridges at Risk\n\n\n\n\n0.0496\n0.0142\n\n\n\n\n\n\n\n\n\n\nThe table shows that the percent chance that a bridge in Omaha, NE is in poor condition is 4.96 %.\nIt also shows, the percent chance that a bridge in poor condition has high traffic is 1.42%.\nThe Next step was to analyze the data with a linear model"
+    "text": "Descriptive Statistics: Proportion of Bridges in Poor Condition\n\n\n\n\n\n\nTable 1: Proportion of Bridges at Risk in all of Omaha, NE\n\n\n\n\n\n\nBridges at Risk\nHigh Traffic Bridges at Risk\n\n\n\n\n0.0496\n0.0142\n\n\n\n\n\n\n\n\n\n\nThe percent chance that a bridge in Omaha, NE is in poor condition is 4.96 %.\nThe percent chance that a bridge in poor condition has high traffic is 1.42%.\nNext the data was analyzed with a linear model"
   },
   {
     "objectID": "index.html#linear-model-collapse-risk-variable",
     "href": "index.html#linear-model-collapse-risk-variable",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Collapse Risk Variable",
-    "text": "Linear Model: Collapse Risk Variable\n\nA binary collapse risk variable was created to have a response variable related to the collpase risk\nIt was done by creating the variable to equal 1 when the bridge condition is poor and if the structural evaluation of the bridge in less than 4, and 0 otherwise.\nBridge Condition and Structural Evaluation are both summary variables"
+    "text": "Linear Model: Collapse Risk Variable\n\nA binary collapse risk variable was created\n\nIt was done by creating the variable to equal 1 when the bridge condition is poor and if the structural evaluation of the bridge in less than 4, and 0 otherwise.\nBridge Condition and Structural Evaluation are both summary variables"
   },
   {
     "objectID": "index.html#linear-model-imputation-methods",
     "href": "index.html#linear-model-imputation-methods",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Imputation Methods",
-    "text": "Linear Model: Imputation Methods\n\nThe data set contained many “NA” values and to take are of this imputation methods were used\nimputation methods are when you use the information that you have in the data set to estimate the missing values\nThis new data set was then used to create our linear model"
+    "text": "Linear Model: Imputation Methods\n\nThe data set contained many “NA” values, imputation methods were used\nImputation methods are when you use the information that you have in the data set to estimate the missing values\nThis new data set was then used to create our linear model"
   },
   {
     "objectID": "index.html#linear-model-model-makeup-and-process",
     "href": "index.html#linear-model-model-makeup-and-process",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Makeup and Process",
-    "text": "Linear Model: Model Makeup and Process\n\\[\n\\scriptsize \\log\\left( \\frac{P(\\text{collapse\\_risk} = 1)}{1 - P(\\text{collapse\\_risk} = 1)} \\right)\n= \\beta_0 + \\beta_1 \\cdot \\text{DECK\\_COND\\_058} \\\\ \\scriptsize + \\beta_2 \\cdot \\text{OPERATING\\_RATING\\_064}\n+ \\beta_3 \\cdot \\text{YEAR\\_BUILT\\_027}\n\\]\n\nThis model is a generalized linear model as our response variable is non - linear"
+    "text": "Linear Model: Model Makeup and Process\n\\[\n\\scriptsize \\log\\left( \\frac{P(\\text{collapse\\_risk} = 1)}{1 - P(\\text{collapse\\_risk} = 1)} \\right)\n= \\beta_0 + \\beta_1 \\cdot \\text{DECK\\_COND\\_058} \\\\ \\scriptsize + \\beta_2 \\cdot \\text{OPERATING\\_RATING\\_064}\n+ \\beta_3 \\cdot \\text{YEAR\\_BUILT\\_027}\n\\]\n\nThis model is a generalized linear model\nThe response variable is non - normal (Binomial)"
   },
   {
     "objectID": "index.html#linear-model-training-and-test-set",
     "href": "index.html#linear-model-training-and-test-set",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Training and Test set",
-    "text": "Linear Model: Training and Test set\n\nThe data was split into a training and testing set (80% and 20% respectivly)\nThis was done so that the model’s accuracy could be tested as well as see its predictions"
+    "text": "Linear Model: Training and Test set\n\nThe data was split into a training and testing set\n\n(80% and 20% respectively)\n\nThis allows the model’s accuracy to be tested as well as see its predictions"
   },
   {
     "objectID": "index.html#linear-model-model-coefficients",
     "href": "index.html#linear-model-model-coefficients",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Coefficients",
-    "text": "Linear Model: Model Coefficients\n\n\n\n\n\n\nTable 2: Regression Model Summary\n\n\n\n\n\n\n\n\n\nterm\nestimate\nstd.error\nstatistic\np.value\n\n\n\n\n(Intercept)\n67.68825\n27.59264\n2.453\n1.416e-02\n\n\nas.numeric(DECK_COND_058)\n-1.69300\n0.30053\n-5.633\n1.766e-08\n\n\nOPERATING_RATING_064\n-0.04482\n0.01758\n-2.549\n1.079e-02\n\n\nas.numeric(YEAR_BUILT_027)\n-0.03005\n0.01430\n-2.101\n3.560e-02\n\n\n\n\n\n\n\n\n\n\n\n\nThis shows that all variables are significant by having a p.value less than .05.\nThis means that all of the coefficients will be included in the model for prediction."
+    "text": "Linear Model: Model Coefficients\n\n\n\n\n\n\nTable 2: Regression Model Summary\n\n\n\n\n\n\n\n\n\nterm\nestimate\nstd.error\nstatistic\np.value\n\n\n\n\n(Intercept)\n97.96797\n31.41703\n3.118\n1.819e-03\n\n\nas.numeric(DECK_COND_058)\n-2.21077\n0.38766\n-5.703\n1.178e-08\n\n\nOPERATING_RATING_064\n-0.04504\n0.01895\n-2.376\n1.748e-02\n\n\nas.numeric(YEAR_BUILT_027)\n-0.04420\n0.01615\n-2.738\n6.187e-03\n\n\n\n\n\n\n\n\n\n\n\n\nThis shows that all variables are significant by having a p-value less than 0.05\nThis means that all of the coefficients will be included in the model for prediction"
   },
   {
     "objectID": "index.html#linear-model-model-accuracy",
     "href": "index.html#linear-model-model-accuracy",
     "title": "Evaluation of Bridge Saftey in Omaha,NE",
     "section": "Linear Model: Model Accuracy",
-    "text": "Linear Model: Model Accuracy\n\n\n\n\n\n\nTable 3: Accuracy of Regression Model\n\n\n\n\n\n\nAccuracy\n\n\n\n\n0.9702\n\n\n\n\n\n\n\n\n\n\nwhen used in prediction on the test data set, the model predicts or analyzed that there is 2.98 % of bridges that are at risk of collapse.\nThis is very similar to the value from the overall data which was 4.13 %.\nshows that the model has a 97% accuracy in predicting the defined collapse risk variable"
+    "text": "Linear Model: Model Accuracy\n\n\n\n\n\n\nTable 3: Accuracy of Regression Model\n\n\n\n\n\n\nAccuracy\n\n\n\n\n0.9702\n\n\n\n\n\n\n\n\n\n\nWhen used in prediction on the test data set, the model predicts or analyzed that there is 1.19 % of bridges that are at risk of collapse\nThis is very similar to the value from the overall data which was 4.13 %\nThe model has a 97% accuracy in predicting the defined collapse risk variable"
+  },
+  {
+    "objectID": "index.html#results-breakdown",
+    "href": "index.html#results-breakdown",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Results Breakdown",
+    "text": "Results Breakdown\n\nIn the analysis we have found that\n\nBridge rating of Poor: 4.96%\nBridge rating of poor and high traffic: 1.42%\n\nModel Analysis Finding\n\nThe model estimated that 1.19% of bridges in Omaha are at risk of collapse with 97% accuracy"
+  },
+  {
+    "objectID": "index.html#issues",
+    "href": "index.html#issues",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Issues",
+    "text": "Issues\n\nNo specifically defined criteria for if a bridge is going to collapse\n\nLead to analyzing the descriptive statistics while also formulating a variable that categorized risk of collapse\n\nData set contained a lot of missing values\n\nThe model was created using an imputed data set"
+  },
+  {
+    "objectID": "index.html#future-implications",
+    "href": "index.html#future-implications",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "Future Implications",
+    "text": "Future Implications\n\nUsing this model to further categorize bridges as at risk or needing attention\n\nCould allow government officials to act quicker if they know the proportion of bridges that are at risk in there district or state\nLead to more economical solutions if at risk bridges can be identified then preventative measures can be taken\n\nThe main product of this analysis is that bridges are not in good condition and money needs to be allocated to help mend and fix bridges"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Evaluation of Bridge Saftey in Omaha,NE",
+    "section": "References",
+    "text": "References\n\n\nDeLetter, Emily. 2024. “Baltimore’s Key Bridge Is Not the First: A Look at Other Bridge Collapse Events in US History.” https://www.usatoday.com/story/news/nation/2024/03/26/bridge-collapses-us-history/73103384007/.\n\n\n“National Bridge Inventory (NBI).” 2024. https://tvar-hub-usdot.hub.arcgis.com/pages/national-bridge-inventory.\n\n\n“Nebraska Infrastructure Report Card | ASCE.” 2025. https://infrastructurereportcard.org/state-item/nebraska/.\n\n\n“NTSB Recommends 68 Bridges in US Be Evaluated for Risk of Collapse from Vessel Strike.” 2025. https://www.ntsb.gov/news/press-releases/Pages/nr20250320.aspx."
   }
 ]
